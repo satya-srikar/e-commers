@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/e-commers/static/css/main.13820d97.chunk.css",
+    "main.js": "/e-commers/static/js/main.e0ed25a5.chunk.js",
+    "main.js.map": "/e-commers/static/js/main.e0ed25a5.chunk.js.map",
+    "runtime~main.js": "/e-commers/static/js/runtime~main.69d173ca.js",
+    "runtime~main.js.map": "/e-commers/static/js/runtime~main.69d173ca.js.map",
+    "static/js/2.ced158aa.chunk.js": "/e-commers/static/js/2.ced158aa.chunk.js",
+    "static/js/2.ced158aa.chunk.js.map": "/e-commers/static/js/2.ced158aa.chunk.js.map",
+    "index.html": "/e-commers/index.html",
+    "precache-manifest.8663c8780d327b131a3baf93bdc4870f.js": "/e-commers/precache-manifest.8663c8780d327b131a3baf93bdc4870f.js",
+    "service-worker.js": "/e-commers/service-worker.js",
+    "static/css/main.13820d97.chunk.css.map": "/e-commers/static/css/main.13820d97.chunk.css.map",
+    "static/media/crown.0581e393.svg": "/e-commers/static/media/crown.0581e393.svg",
+    "static/media/shopping-bag.1420d0f7.svg": "/e-commers/static/media/shopping-bag.1420d0f7.svg"
+  }
+}
