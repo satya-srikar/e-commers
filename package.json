@@ -1,7 +1,7 @@
 {
   "name": "crwn-clothing",
   "version": "0.1.0",
-  "proxy": "http://localhost:5000",
+  "homepage": "https://satya-srikar.github.io/e-commers/",
   "private": true,
   "dependencies": {
     "firebase": "6.0.2",
